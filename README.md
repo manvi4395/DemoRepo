@@ -1,6 +1,6 @@
 # Small sized sample project  
 
-This is a demo repo to test few Google based functionalities for practice using cucumber BDD approach.
+This is a demo repo to test few basic and generic UI application functionalities for practice using cucumber BDD approach.
 
 ## Authors
 
